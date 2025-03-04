@@ -14,8 +14,6 @@ maintainers = ["eric_G"]
 [upstream]
 license = "AGPL-3.0"
 website = "https://getcubby.org/"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
 code = "https://github.com/getcubby/cubby"
 
 [integration]
