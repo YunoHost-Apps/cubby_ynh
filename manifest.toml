@@ -14,8 +14,6 @@ maintainers = ["eric_G"]
 [upstream]
 license = "AGPL-3.0"
 website = "https://getcubby.org/"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
 code = "https://github.com/getcubby/cubby"
 
 [integration]
@@ -50,7 +48,7 @@ ram.runtime = "50M"
     url = "https://github.com/getcubby/cubby/archive/refs/tags/v2.4.0.tar.gz"
     sha256 = "0c5dd78a7b5371fd0eccabd29e6ea7985e7763ab90c0327055eeb293d95e36e7"
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
     allow_email = true
