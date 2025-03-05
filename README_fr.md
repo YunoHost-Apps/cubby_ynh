@@ -18,12 +18,10 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
+Cubby is a pure file-sharing application with some built-in viewers (text, code, pdf, images, ...). It also supports an external installation of Collabora Office.
 
 
 **Version incluse :** 2.4.0~ynh1
-
-**Démo :** <https://demo.example.com>
 
 ## Captures d’écran
 
@@ -32,7 +30,6 @@ Ceci est une fausse description des fonctionalités de l'app
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://getcubby.org/>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
 - Dépôt de code officiel de l’app : <https://github.com/getcubby/cubby>
 - YunoHost Store : <https://apps.yunohost.org/app/cubby>
 - Signaler un bug : <https://github.com/YunoHost-Apps/cubby_ynh/issues>

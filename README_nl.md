@@ -18,12 +18,10 @@ Hij mag NIET handmatig aangepast worden.
 
 ## Overzicht
 
-This is a dummy description of this app features
+Cubby is a pure filesharing app with some built-in viewers (text, code, pdf, images, ...). It further supports an external collabora office installation.
 
 
 **Geleverde versie:** 2.4.0~ynh1
-
-**Demo:** <https://demo.example.com>
 
 ## Schermafdrukken
 
@@ -32,7 +30,6 @@ This is a dummy description of this app features
 ## Documentatie en bronnen
 
 - Officiele website van de app: <https://getcubby.org/>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/getcubby/cubby>
 - YunoHost-store: <https://apps.yunohost.org/app/cubby>
 - Meld een bug: <https://github.com/YunoHost-Apps/cubby_ynh/issues>
